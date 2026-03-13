@@ -1,17 +1,53 @@
-# flutter_project
+# Flutter Product Store App
 
-A new Flutter project.
+## Project Name
 
-## Getting Started
+Tech Catalog
 
-This project is a starting point for a Flutter application.
+## Description
 
-A few resources to get you started if this is your first Flutter project:
+This project is a simple e-commerce mobile application developed using
+Flutter. The application allows users to browse products, view product
+details, add items to a cart, and manage the cart by removing products.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Main Features: - Product listing screen - Product detail screen - Add
+products to cart - Remove products from cart - Cart item counter -
+Product search functionality
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Flutter Version
+
+Flutter 3.41.4 (Stable)\
+Dart 3.11.1
+
+## How to Run the Project
+
+1.  Clone the repository
+
+```{=html}
+<!-- -->
+```
+    git clone https://github.com/emrecan555/tech_catalog.git
+
+2.  Navigate to the project folder
+
+```{=html}
+<!-- -->
+```
+    cd flutter-product-store
+
+3.  Install dependencies
+
+```{=html}
+<!-- -->
+```
+    flutter pub get
+
+4.  Run the application
+
+```{=html}
+<!-- -->
+```
+    flutter run
+
+Make sure a device or emulator is connected before running the
+application.
