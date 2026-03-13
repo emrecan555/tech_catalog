@@ -26,6 +26,6 @@ git clone https://github.com/emrecan555/tech_catalog.git
 cd tech_catalog
 flutter pub get
 flutter run
-
+```
 Make sure a device or emulator is connected before running the
 application.
