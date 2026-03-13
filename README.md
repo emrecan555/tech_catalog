@@ -21,29 +21,11 @@ Dart 3.11.1
 
 ## How to Run the Project
 
-1.  Clone the repository
-
-
-```
-    git clone https://github.com/emrecan555/tech_catalog.git
-
-2.  Navigate to the project folder
-
-
-```
-    cd flutter-product-store
-
-3.  Install dependencies
-
-
-```
-    flutter pub get
-
-4.  Run the application
-
-
-```
-    flutter run
+```bash
+git clone https://github.com/emrecan555/tech_catalog.git
+cd tech_catalog
+flutter pub get
+flutter run
 
 Make sure a device or emulator is connected before running the
 application.
