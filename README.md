@@ -23,25 +23,29 @@ Dart 3.11.1
 
 1.  Clone the repository
 
-
+```{=html}
+<!-- -->
 ```
     git clone https://github.com/emrecan555/tech_catalog.git
 
 2.  Navigate to the project folder
 
-
+```{=html}
+<!-- -->
 ```
     cd flutter-product-store
 
 3.  Install dependencies
 
-
+```{=html}
+<!-- -->
 ```
     flutter pub get
 
 4.  Run the application
 
-
+```{=html}
+<!-- -->
 ```
     flutter run
 
